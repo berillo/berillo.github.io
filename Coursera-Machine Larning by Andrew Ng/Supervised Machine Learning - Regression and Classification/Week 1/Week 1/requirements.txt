@@ -1,0 +1,13 @@
+# Core numerical and data libraries
+numpy
+pandas
+
+# Plotting and visualization
+matplotlib
+
+# 3D plots and extensions
+mpl_toolkits
+
+# For Jupyter Notebook support
+jupyter
+notebook
