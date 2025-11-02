@@ -59,7 +59,7 @@ TOPICS COVERED
 
 🔹 Gradient Descent in Practice
 * Understanding convergence and learning rate tuning
-* ✅ Practice Quiz: Gradient Descent in Practice
+* ✅ Practice Quiz: Gradient Descent in Practice 100%
 
 🔹 Week 2 Practice Lab
 * Integrating multiple features, scaling, and optimization
