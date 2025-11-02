@@ -46,8 +46,8 @@ By the end of Week 1, I will be able to:
 - Learning Rate and its Impact  
 - Gradient Descent for Linear Regression  
 - Running Gradient Descent  
-- 🔜 *Optional Lab: Gradient Descent*  
-- 🔜 *Practice Quiz: Train the Model with Gradient Descent*  
+- ✅ *Optional Lab: Gradient Descent*  
+- ✅ *Practice Quiz: Train the Model with Gradient Descent*  
 
 ---
 
@@ -58,10 +58,10 @@ By the end of Week 1, I will be able to:
 |------|--------|--------|
 | Lab | Model Representation | ✅ Completed |
 | Lab | Cost Function | ✅ Completed |
-| Lab | Gradient Descent | ⏳ To Do |
+| Lab | Gradient Descent | ✅ Completed |
 | Quiz | Supervised vs Unsupervised Learning | ✅ 100% |
 | Quiz | Regression | ✅ 100% |
-| Quiz | Train the Model with Gradient Descent | 🔜 Upcoming |
+| Quiz | Train the Model with Gradient Descent | ✅ 100% |
 
 ---
 
