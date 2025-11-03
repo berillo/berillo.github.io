@@ -10,6 +10,16 @@
 #       jupytext_version: 1.17.1
 # ---
 
+# ------------------------------------------------------------
+# Linear Regression: Cost Function (Educational Practice)
+# Author: Beril Ipek Erdem
+#
+# This file is my original code. It uses small, manually entered
+# example data to illustrate the linear model f_{w,b}(x) = w*x + b.
+# The values may resemble common ML examples, but all code and plots
+# are independently created. No Coursera materials are included.
+# ------------------------------------------------------------
+
 # %%
 import numpy as np
 import matplotlib.pyplot as plt
@@ -17,7 +27,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 # %%
 x = np.array([1.0, 2.0])       # size in 1000 ft²
-y = np.array([300.0, 500.0])   # price in $1000s
+y = np.array([200.0, 400.0])   # price in $1000s
 
 # %%
 def predict(x, w, b):
@@ -32,8 +42,8 @@ def compute_cost(x, y, w, b):
     return resiudals @ resiudals / (2.0 * m)
 
 # %%
-# Check: for this sata set, the line y=200*x + 100 has zero cost
-print(compute_cost(x, y, 200, 100)) # should be 0.0
+# Check: for this data set, the line y=300*x + 100 has zero cost
+print(compute_cost(x, y, 300, 100)) # should be 0.0
 
 # %%
 # How cost changes with w, fixed b=100
