@@ -24,6 +24,9 @@ This is a 3-course program that mixes modern ML with classical foundations.
 - Topics so far: linear regression, gradient descent, supervised vs unsupervised learning.  
 - Next: logistic regression, decision trees, and neural networks.
 
+- My **own re-implementations** of fundamental topics from the Coursera / DeepLearning.AI Machine Learning specialization.  
+All code and explanations here are written from scratch and **do not include or reproduce** any Coursera-provided notebooks, helper files, or datasets.
+
 ---
 
 ## My Projects
@@ -53,5 +56,17 @@ Some code here will break, some will be half-finished, and some will actually wo
 
 This repo is my way of tracking the chaos and the progress at the same time.  
 If you’re also learning ML, maybe you’ll find something useful here — or feel less alone in the confusion.
+
+---
+
+## Disclaimer
+
+This repository is for **personal educational use**.  
+It is **not affiliated with or endorsed by Coursera, DeepLearning.AI, or Kaggle**.  
+All examples, code, and data included here are either:
+- **manually created** by me for demonstration, or  
+- **publicly available** from open datasets.
+
+Small numeric examples inspired by course concepts are manually typed and do not constitute reproduction of course content.
 
 

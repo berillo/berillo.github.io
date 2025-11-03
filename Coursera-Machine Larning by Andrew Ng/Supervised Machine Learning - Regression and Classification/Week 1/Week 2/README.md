@@ -26,7 +26,7 @@ TOPICS COVERED
 * Regression with Multiple Input Variables
 * Understanding multiple features and their representation
 * Matrix form of the hypothesis
-* 🔜 Optional Lab: Multiple Linear Regression
+* ✅ Optional Lab: Multiple Linear Regression
 
 🔹 Vectorization
 * Vectorization
@@ -70,7 +70,7 @@ Labs & Quizzes Summary
 Type    | Title                                           | Status
 --------|-------------------------------------------------|---------
 Lab     | Python, NumPy and Vectorization                 | ✅ Completed
-Lab     | Multiple Linear Regression                      | 🔜 To be completed
+Lab     | Multiple Linear Regression                      | ✅ Completed
 Lab     | Feature Scaling and Learning Rate               | 🔜 To be completed
 Lab     | Feature Engineering and Polynomial Regression   | 🔜 To be completed
 Lab     | Linear Regression with Scikit-Learn             | 🔜 To be completed
