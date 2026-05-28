@@ -1,7 +1,7 @@
 # berillo.github.io
  Computer Engineering student at Politecnico di Torino interested in machine learning, robotics, and intelligent systems.
 
- Alongside multidisciplinary engineering projects and embedded systems work, I use this repository to document my progress in machine learning and programming through coursework, experiments, and personal projects.
+ Alongside my work within the PoliTo Sailing Team – Mechatronics Department, I use this repository to document personal projects, experiments, and coursework related to programming, embedded systems, and machine learning.
 
 ---
 
@@ -53,16 +53,18 @@ Additional topics from the specialization include:
  Using Kaggle exercises to practice machine learning concepts with real datasets and improve practical understanding.
 
 ## Projects
- This repository contains coursework exercises, experiments, notes, and personal projects.
+This repository contains personal projects and experiments related to programming, embedded systems, and machine learning.
 
- Current areas of exploration include:
+Current / planned projects include:
 
-- Learning-based system identification
-- Regression and classification models
-- Sensor-related data analysis
-- Embedded and communication-oriented software projects
+- M3 e-paper display interface development using Arduino and C/C++
+- Embedded communication experiments for onboard electronic systems
+- Learning-based system identification for nonlinear dynamical systems
+- Small machine learning implementations written independently for practice
 
- Future projects will focus on applied machine learning and intelligent system development.
+Some engineering projects and implementations remain private due to team and project restrictions.
+
+Course exercises and assignment materials from Coursera or Kaggle are not included in this repository.
 
 ---
 
@@ -88,25 +90,5 @@ Additional topics from the specialization include:
 - scikit-learn
 
 ---
-
-## Why This Repository?
-
-This repository serves as a public learning log and technical portfolio documenting my progress as an engineering student.
-
-The goal is not only to study theory, but also to gradually build practical intuition through experimentation, implementation, and project development.
-
----
-
-## Disclaimer
-
-This repository is for personal educational use.
-
-It is not affiliated with or endorsed by Coursera or DeepLearning.AI.
-
-All code, notes, and examples included here are either:
-
-- independently implemented,
-- manually written for educational purposes,
-- or based on publicly available datasets and resources.
 
 
